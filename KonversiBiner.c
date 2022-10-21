@@ -21,7 +21,7 @@ void biner(int n){
 }
 
 int main(){
-    unsigned long long angka1, angka2, A, B, C;
+    unsigned long long angka1;
 
     scanf("%d", &angka1);
     printf("Biner dari %d = ", angka1);
